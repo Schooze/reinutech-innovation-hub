@@ -22,13 +22,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      details: "+62 xxx-xxxx-xxxx",
+      details: "+62 895-0480-8145",
       subtitle: "Available during business hours"
     },
     {
       icon: Mail,
       title: "Email",
-      details: "info@reinutech.com",
+      details: "reinutech@gmail.com",
       subtitle: "We'll respond within 24 hours"
     },
     {
@@ -102,7 +102,7 @@ const Contact = () => {
                   </label>
                   <Input 
                     type="tel" 
-                    placeholder="+62 xxx-xxxx-xxxx" 
+                    placeholder="+62 895-0480-8145" 
                     className="border-border focus:border-primary"
                   />
                 </div>
@@ -178,7 +178,7 @@ const Contact = () => {
                   Find Us on Map
                 </h3>
                 <a 
-                  href="https://www.google.com/maps/@-7.0465530,110.4624700,17z"
+                  href="https://www.google.com/maps/place/Reinutech+Engineering+Innovation/@-7.0465171,110.4622718,19.38z/data=!4m6!3m5!1s0x2e708d8fcd226875:0xca03344fd893532!8m2!3d-7.0465526!4d110.4624703!16s%2Fg%2F11vjg2g78d?entry=ttu&g_ep=EgoyMDI1MDcyMC4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center space-x-2 text-primary hover:text-primary-glow smooth-transition font-medium"

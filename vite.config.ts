@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 // Import the SWC plugin or the official React plugin:
-import react from '@vitejs/plugin-react-swc'
+import react from '@vitejs/plugin-react'  // Changed from '@vitejs/plugin-react-swc'
 // Alternatively, if you prefer, use:
 // import react from '@vitejs/plugin-react'
 import path from 'path'

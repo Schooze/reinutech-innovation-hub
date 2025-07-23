@@ -53,11 +53,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <span className="text-secondary-foreground/80">+62 xxx-xxxx-xxxx</span>
+                <span className="text-secondary-foreground/80">+62 895-0480-8145</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-secondary-foreground/80">info@reinutech.com</span>
+                <span className="text-secondary-foreground/80">reinutech@gmail.com</span>
               </div>
             </div>
           </div>
@@ -120,7 +120,7 @@ const Footer = () => {
               
               <div>
                 <a 
-                  href="https://www.google.com/maps/@-7.0465530,110.4624700,17z"
+                  href="https://www.google.com/maps/place/Reinutech+Engineering+Innovation/@-7.0465171,110.4622718,19.38z/data=!4m6!3m5!1s0x2e708d8fcd226875:0xca03344fd893532!8m2!3d-7.0465526!4d110.4624703!16s%2Fg%2F11vjg2g78d?entry=ttu&g_ep=EgoyMDI1MDcyMC4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center space-x-2 text-primary hover:text-primary-glow smooth-transition"
